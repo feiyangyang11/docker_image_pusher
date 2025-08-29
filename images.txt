@@ -4,6 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-centos7
-ubuntu/mysql:8.0-22.04_beta
-hello-world
+#centos7
+mysql:latest
+#hello-world
