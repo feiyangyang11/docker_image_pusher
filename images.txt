@@ -6,5 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 centos7
 mysql:latest
-redis:8.2 --platform=linux/arm64
+redis:8.2 
 #hello-world
