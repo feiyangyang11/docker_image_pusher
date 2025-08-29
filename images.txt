@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 hello-world
 centos7
-mysql:8.0
+mysql8.0
